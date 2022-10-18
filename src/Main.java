@@ -8,7 +8,7 @@ public class Main {
         double weight;
         Date birthday;
 
-        String frommike;
+        String frommike1;
 
 
         Student(String firstname, String lastname, long studentId, double weight, Date birthday) {
