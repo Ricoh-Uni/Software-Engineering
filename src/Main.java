@@ -8,6 +8,8 @@ public class Main {
         double weight;
         Date birthday;
 
+        String frommike;
+
 
         Student(String firstname, String lastname, long studentId, double weight, Date birthday) {
             this.firstname = firstname;
